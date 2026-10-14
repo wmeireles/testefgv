@@ -1,0 +1,25 @@
+[
+  {"id": "fin-01", "segment": "Financeiro", "client": "Banco Aurora", "text": "Programa de lideranca executiva para gestores do setor financeiro com foco em gestao de risco e tomada de decisao."},
+  {"id": "fin-02", "segment": "Financeiro", "client": "Seguradora Sigma", "text": "Capacitacao em lideranca e gestao de equipes comerciais bancarias, formato hibrido, doze meses."},
+  {"id": "fin-03", "segment": "Financeiro", "client": "Cooperativa Credito Sul", "text": "Programa de inovacao e transformacao digital para lideranca financeira e analise de credito."},
+  {"id": "fin-04", "segment": "Financeiro", "client": "Corretora Vetor", "text": "Desenvolvimento de lideranca para gestao de investimentos e relacionamento com clientes premium."},
+  {"id": "fin-05", "segment": "Financeiro", "client": "Banco Aurora", "text": "Trilha de gestao estrategica e lideranca para diretoria do banco, modulos de compliance e governanca."},
+
+  {"id": "sau-01", "segment": "Saude", "client": "Hospital Vida", "text": "Programa de lideranca clinica e gestao hospitalar para coordenadores medicos e enfermagem."},
+  {"id": "sau-02", "segment": "Saude", "client": "Rede Farma Bem", "text": "Capacitacao em gestao de operacoes e lideranca para gestores de farmacia e logistica."},
+  {"id": "sau-03", "segment": "Saude", "client": "Clinica Sorriso", "text": "Programa de inovacao em saude e lideranca para gestao de clinicas e experiencia do paciente."},
+  {"id": "sau-04", "segment": "Saude", "client": "Laboratorio Nucleo", "text": "Desenvolvimento de lideranca e gestao de qualidade para laboratorios de analises clinicas."},
+  {"id": "sau-05", "segment": "Saude", "client": "Hospital Vida", "text": "Trilha de gestao estrategica e lideranca para a diretoria hospitalar, foco em indicadores assistenciais."},
+
+  {"id": "pub-01", "segment": "Publica", "client": "Prefeitura Norte", "text": "Programa de lideranca e gestao publica para secretarios municipais e gestores de politicas."},
+  {"id": "pub-02", "segment": "Publica", "client": "Tribunal Estadual", "text": "Capacitacao em lideranca e gestao de pessoas para servidores do judiciario estadual."},
+  {"id": "pub-03", "segment": "Publica", "client": "Agencia Reguladora X", "text": "Programa de inovacao no setor publico e lideranca para gestao de processos regulatorios."},
+  {"id": "pub-04", "segment": "Publica", "client": "Secretaria Fazenda", "text": "Desenvolvimento de lideranca para gestao fiscal e modernizacao da arrecadacao estadual."},
+  {"id": "pub-05", "segment": "Publica", "client": "Prefeitura Norte", "text": "Trilha de gestao estrategica e lideranca para alta gestao municipal, foco em resultados."},
+
+  {"id": "emp-01", "segment": "Empresarial", "client": "Industria Forte", "text": "Programa de lideranca e gestao industrial para gerentes de producao e cadeia de suprimentos."},
+  {"id": "emp-02", "segment": "Empresarial", "client": "Varejo Mais", "text": "Capacitacao em lideranca e gestao de equipes de varejo, formato presencial e online."},
+  {"id": "emp-03", "segment": "Empresarial", "client": "TechNova", "text": "Programa de inovacao e lideranca para gestao de produtos de tecnologia e times ageis."},
+  {"id": "emp-04", "segment": "Empresarial", "client": "Logistica Brasil", "text": "Desenvolvimento de lideranca para gestao de operacoes logisticas e eficiencia de custos."},
+  {"id": "emp-05", "segment": "Empresarial", "client": "Industria Forte", "text": "Trilha de gestao estrategica e lideranca para diretoria industrial, foco em transformacao."}
+]
